@@ -4,11 +4,13 @@
 
 # Hi there, I'm Rita Palmeris 👋
 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+I'm a Computer Science student passionate about software engineering, machine learning, and intelligent systems. I enjoy transforming ideas into practical solutions through clean code, thoughtful design, and data-driven decision making.
 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+- 🔭 **Current Focus:** Currently building AI-powered recommendation systems
+- 🌱 **Learning & Exploration:** Exploring Machine Learning, Cloud Computing, and Advanced Software Engineering
+- ⚡ **Core Interests:** Interested in Full-Stack Development, Artificial Intelligence, Data Analytics, and System Design
+- 🎯 **Goal:** Build technology that solves meaningful real-world problems
+- 💡 **Fun Fact:** I enjoy solving Rubik's Cubes and learning new technologies
 
 ---
 
